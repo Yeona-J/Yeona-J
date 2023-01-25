@@ -1,1 +1,1 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20there,%20I'm%20Yeona&fontAlign=50&fontAlignY=40&color=gradient)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fondamento&size=30&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Yeona.)](https://git.io/typing-svg)
